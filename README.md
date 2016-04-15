@@ -31,4 +31,3 @@ Haskell Book Practice Exercises
 * Non-strictness
 * Commonly used data structures
 * Demystifying IO
-* 
