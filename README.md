@@ -1,7 +1,6 @@
 # Haskell-Book
 Haskell Book Practice Exercises
  
-* Front matter
 * Lambda Calculus
 * Hello Haskell
 * Strings
